@@ -23,10 +23,3 @@ Group project for the "Social Netwoek Analysis" course of LUISS University (a.y.
 - Run the Jupyter Notebook in the built-in order of the cells.
 
 **Extra Information:** *You might be prompted for inputs within the project. There exports to your machine in the form of a .csv file. You can use these to replicate the relevant graph in the **GEPHI** software.*
-
-
-
-
-
-
-

@@ -3,6 +3,8 @@
 ---
 Group project for the "Social Netwoek Analysis" course of LUISS University (a.y. 2024-2025).
 
+This project was graded: full points + bonus (highest possible grade)
+
 ---
 ## Collaborators 
 (Alphabetically by Last Name, with LUISS matricola number)

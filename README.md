@@ -1,9 +1,9 @@
 # Social Network Analysis
 
 ---
-Group project for the "Social Netwoek Analysis" course of LUISS University (a.y. 2024-2025).
+Group project for the "Social Network Analysis" course of LUISS University (a.y. 2024-2025).
 
-This project was graded: full points + bonus (highest possible grade)
+*This project was graded: **full points + bonus** (highest possible grade)*
 
 ---
 ## Collaborators 

@@ -13,7 +13,15 @@ Group project for the "Social Network Analysis" course of LUISS University (a.y.
 - 296881 Guia Ludovica Basso 
 - 297061 Alessio Giannotti
 - 305031 Iuliia Glazkova 
-- 305561 Elina Yılmaz 
+- 305561 Elina Yılmaz
+
+---
+## Information about the Data
+
+#### Game of Thrones (book) coapperences (undirected, weighted)
+Network of coappearances in the Game of Thrones book "A Storm of Swords." Nodes are characters. Links are weighted by the number of times the two characters' names appeared within 15 words of each other in the text.
+
+*Source: A. Beveridge and J. Shan, "Network of Thrones." Math Horizons 23(4), 18-22 (2016).*
 
 ---
 ## Instructions to Run the Project:
